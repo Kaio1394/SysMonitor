@@ -7,4 +7,5 @@ The Main API is the central component of the distributed monitoring system. It i
 ## UML(Api)
 ![image](https://github.com/user-attachments/assets/30ccb09c-e2c1-4b70-821a-f59f0c73c88d)
 
-
+## Model
+![image](https://github.com/user-attachments/assets/3da1f9fb-49bc-4c7a-b0e9-131914a757c4)
